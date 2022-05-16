@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RakeshKR
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
