@@ -1,4 +1,4 @@
-<a href="https://github.com/Tuttumon21"><img src="contributions.svg"></a>
+<a href="https://github.com/Tuttumon21"><img src="contributions.svg.svg"></a>
 <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=tondrejk.tondrejk" />
 ![MasterHead](https://miro.medium.com/max/1400/0*hVg6snnIJHN6VaoW.gif)
 <h1 align="center">HELLO 👋, I'm RAKESH K R</h1>
