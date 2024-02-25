@@ -1,11 +1,11 @@
 ![MasterHead](https://miro.medium.com/max/1400/0*hVg6snnIJHN6VaoW.gif)
 <h1 align="center">HELLO 👋, I'm RAKESH K R</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-- 🌱 I’m currently learning **Javascript,React,Spline**
+- 🌱 I’m currently learning **AI/ML,Javascript,React,Django,Spline**
 
-- 💬 Ask me about **HTML,CSS,JAVA,C,C++**
+- 💬 Ask me about **Python,MachineLearning,,WebDevelopment,HTML,CSS**
 
 - 📫 How to reach me **rakeshshopping007@gmail.com**
 
