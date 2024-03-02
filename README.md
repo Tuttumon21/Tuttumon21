@@ -143,6 +143,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Tuttumon21/Tuttumon21/output/snake.svg" alt="Snake animation" />
+<img src="contributions.svg.svg" alt="Snake animation" />
+
 
 ###
